@@ -20,7 +20,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>React testing deploy project! Hooray, it works properly!</h1>
       <div className="card">
         <button onClick={inrement}>
           count is {count}
